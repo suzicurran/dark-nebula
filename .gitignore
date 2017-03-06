@@ -1,0 +1,5 @@
+# Ignore node packages
+/node_modules
+
+# Ignore Launch setup info
+dark-nebula-es6.md
